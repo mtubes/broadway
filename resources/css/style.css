@@ -2,8 +2,10 @@ html{
   text-align: center;
   font-family: Helvetica;
 }
+.header {
+  background-image: url("../images/flatiron.png");
+}
 .header h1{
-  background-image: url("../resources/images/flatiron.png");
   font-size: 70px;
   font-weight: bold;
   color: white;
@@ -23,4 +25,21 @@ a {
   font-size: Helvetica;
   font-size: 23px;
   font-weight: bold;
+}
+
+.newyork{
+  background-image: url("../images/flatiron.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+p{
+  font-size: 14px;
+}
+.footer{
+  background-color: dimgray;
+  text-align: left;
+}
+.footer p{
+  font-size: 11px;
 }
